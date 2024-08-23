@@ -43,7 +43,7 @@ services:
         id:
 
 permalinks:
-    post: /p/:slug/
+    post: /:slug/
     page: /:slug/
 
 params:
