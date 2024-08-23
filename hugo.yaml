@@ -8,7 +8,7 @@ copyright: LinuxTechPro
 services:
     # Change it to your Disqus shortname before using
     disqus:
-        shortname: "hugo-theme-stack"
+        shortname: "linuxtechpro"
     # GA Tracking ID
     googleAnalytics:
         id:
