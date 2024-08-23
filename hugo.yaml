@@ -63,7 +63,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Discover expert Linux tutorials and guides.
         avatar:
             enabled: true
             local: true
