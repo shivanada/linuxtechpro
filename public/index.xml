@@ -421,26 +421,15 @@ $$&lt;/p&gt;</description>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/about/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;About LinuxTechPro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to LinuxTechPro, your go-to resource for everything Linux! Whether you&amp;rsquo;re a seasoned sysadmin, an open-source enthusiast, or just beginning your journey into the world of Linux, LinuxTechPro is here to support and guide you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At LinuxTechPro, we are passionate about empowering users with the knowledge they need to harness the full potential of Linux. Our site is dedicated to providing high-quality, easy-to-follow tutorials that cater to users of all skill levels. Whether you&amp;rsquo;re looking to master the command line, set up a secure server, or customize your desktop environment, we&amp;rsquo;ve got you covered.&lt;/p&gt;
+&lt;p&gt;In addition to our in-depth tutorials, we keep you updated with the latest news and developments in the Linux world. From kernel updates to exciting new distributions and software releases, we bring you the information that matters most to the Linux community.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Mission&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our mission is to make Linux accessible to everyone. We believe in the power of open-source software and the freedom it brings to users worldwide. By offering clear, concise, and practical content, we aim to help you become proficient in Linux and make the most out of this powerful operating system.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Join Us&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Join our growing community of Linux enthusiasts and professionals. Whether you’re here to learn, stay informed, or contribute your own insights, LinuxTechPro is the place for you. Together, let&amp;rsquo;s explore the limitless possibilities of Linux.&lt;/p&gt;
 </description>
         </item>
         <item>

@@ -1,11 +1,9 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
+description: Learn about LinuxTechPro, your resource for Linux tutorials and news. Discover our mission to empower users with knowledge and stay informed on the latest in Linux.
 date: '2019-02-28'
 aliases:
   - about-us
-  - about-hugo
-  - contact
 license: CC BY-NC-ND
 lastmod: '2020-10-09'
 menu:
@@ -15,20 +13,20 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+**About LinuxTechPro**
 
-Hugo makes use of a variety of open source projects including:
+Welcome to LinuxTechPro, your go-to resource for everything Linux! Whether you're a seasoned sysadmin, an open-source enthusiast, or just beginning your journey into the world of Linux, LinuxTechPro is here to support and guide you.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+**What We Offer**
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+At LinuxTechPro, we are passionate about empowering users with the knowledge they need to harness the full potential of Linux. Our site is dedicated to providing high-quality, easy-to-follow tutorials that cater to users of all skill levels. Whether you're looking to master the command line, set up a secure server, or customize your desktop environment, we've got you covered.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+In addition to our in-depth tutorials, we keep you updated with the latest news and developments in the Linux world. From kernel updates to exciting new distributions and software releases, we bring you the information that matters most to the Linux community.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+**Our Mission**
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Our mission is to make Linux accessible to everyone. We believe in the power of open-source software and the freedom it brings to users worldwide. By offering clear, concise, and practical content, we aim to help you become proficient in Linux and make the most out of this powerful operating system.
+
+**Join Us**
+
+Join our growing community of Linux enthusiasts and professionals. Whether you’re here to learn, stay informed, or contribute your own insights, LinuxTechPro is the place for you. Together, let's explore the limitless possibilities of Linux.
