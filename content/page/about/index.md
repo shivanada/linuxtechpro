@@ -4,6 +4,7 @@ description: Learn about LinuxTechPro, your resource for Linux tutorials and new
 date: '2024-08-24'
 aliases:
   - about-us
+comments: false
 license: CC BY-NC-ND
 lastmod: '2024-08-24'
 menu:
