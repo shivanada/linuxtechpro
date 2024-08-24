@@ -1,11 +1,11 @@
 ---
 title: About
 description: Learn about LinuxTechPro, your resource for Linux tutorials and news. Discover our mission to empower users with knowledge and stay informed on the latest in Linux.
-date: '2019-02-28'
+date: '2024-08-24'
 aliases:
   - about-us
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2024-08-24'
 menu:
     main: 
         weight: -90
