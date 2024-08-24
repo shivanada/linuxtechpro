@@ -8,7 +8,19 @@
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-08-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2024-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/disclaimer/</loc>
+    <lastmod>2024-08-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/page/</loc>
+    <lastmod>2024-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/privacy-policy/</loc>
+    <lastmod>2024-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/terms-and-conditions/</loc>
     <lastmod>2024-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
