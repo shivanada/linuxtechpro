@@ -7,7 +7,24 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>LinuxTechPro</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;About LinuxTechPro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to LinuxTechPro, your go-to resource for everything Linux! Whether you&amp;rsquo;re a seasoned sysadmin, an open-source enthusiast, or just beginning your journey into the world of Linux, LinuxTechPro is here to support and guide you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At LinuxTechPro, we are passionate about empowering users with the knowledge they need to harness the full potential of Linux. Our site is dedicated to providing high-quality, easy-to-follow tutorials that cater to users of all skill levels. Whether you&amp;rsquo;re looking to master the command line, set up a secure server, or customize your desktop environment, we&amp;rsquo;ve got you covered.&lt;/p&gt;
+&lt;p&gt;In addition to our in-depth tutorials, we keep you updated with the latest news and developments in the Linux world. From kernel updates to exciting new distributions and software releases, we bring you the information that matters most to the Linux community.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Mission&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our mission is to make Linux accessible to everyone. We believe in the power of open-source software and the freedom it brings to users worldwide. By offering clear, concise, and practical content, we aim to help you become proficient in Linux and make the most out of this powerful operating system.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Join Us&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Join our growing community of Linux enthusiasts and professionals. Whether you’re here to learn, stay informed, or contribute your own insights, LinuxTechPro is the place for you. Together, let&amp;rsquo;s explore the limitless possibilities of Linux.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Archives</title>
         <link>http://localhost:1313/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
@@ -416,56 +433,12 @@ $$&lt;/p&gt;</description>
 &lt;/div&gt;</description>
         </item>
         <item>
-        <title>About</title>
-        <link>http://localhost:1313/about/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/about/</guid>
-        <description>&lt;p&gt;&lt;strong&gt;About LinuxTechPro&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Welcome to LinuxTechPro, your go-to resource for everything Linux! Whether you&amp;rsquo;re a seasoned sysadmin, an open-source enthusiast, or just beginning your journey into the world of Linux, LinuxTechPro is here to support and guide you.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;At LinuxTechPro, we are passionate about empowering users with the knowledge they need to harness the full potential of Linux. Our site is dedicated to providing high-quality, easy-to-follow tutorials that cater to users of all skill levels. Whether you&amp;rsquo;re looking to master the command line, set up a secure server, or customize your desktop environment, we&amp;rsquo;ve got you covered.&lt;/p&gt;
-&lt;p&gt;In addition to our in-depth tutorials, we keep you updated with the latest news and developments in the Linux world. From kernel updates to exciting new distributions and software releases, we bring you the information that matters most to the Linux community.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Our Mission&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Our mission is to make Linux accessible to everyone. We believe in the power of open-source software and the freedom it brings to users worldwide. By offering clear, concise, and practical content, we aim to help you become proficient in Linux and make the most out of this powerful operating system.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Join Us&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Join our growing community of Linux enthusiasts and professionals. Whether you’re here to learn, stay informed, or contribute your own insights, LinuxTechPro is the place for you. Together, let&amp;rsquo;s explore the limitless possibilities of Linux.&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Links</title>
         <link>http://localhost:1313/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
-</description>
+        <description></description>
         </item>
         <item>
         <title>Search</title>
